@@ -5,7 +5,10 @@
 https://exquis.app/
 silly collab draw exquisite-corpse style game , good for warmups and icebreakers for meetings
 
+## File Utility and Conversion
 
+https://www.convertcsv.com/json-to-csv.htm
+convert json to csv quickly
 
 ## Project Mgmnt
 
@@ -28,3 +31,7 @@ Self hosting?: yes, free
 
 https://penpot.app/
 Penpot is an open source prototyping and design platform for teams - works on SVG
+
+
+## Services and APIs
+
